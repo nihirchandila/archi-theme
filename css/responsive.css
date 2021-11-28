@@ -1,0 +1,94 @@
+@media (min-width: 1900px){
+    .hero-title {
+        margin: auto;
+        padding-top: 4%;
+        padding-bottom: 32%
+    }
+    .hero-image {
+        margin-top: -12%;
+    }
+}
+
+
+@media (min-width: 1600px) and (max-width: 1900px){
+    .hero-title {
+        margin: auto;
+        padding-top: 4%;
+        padding-bottom: 28%
+    }
+    .hero-image {
+        margin-top: -15%;
+    }
+}
+
+
+@media (min-width: 1200px){
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+
+@media (max-width: 992px) {
+	h2{
+        font-size: 34px
+    }
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .hero-image {
+        display: none
+    }
+    .hero-title {
+        margin: auto;
+        padding-top: 15%;
+        padding-bottom: 15%
+    }
+    h1 {
+        font-size: 30px;
+        margin-bottom: 30px
+    }
+    h3 {
+        font-size: 15px
+    }
+    .spacer {
+        height: 65px
+    }
+    .spacer2 {
+        height: 45px
+    }
+    .spacer3 {
+        height: 40px
+    }
+    .display-options .options-card h3 {
+        margin-top: 10px
+    }
+    .elementor-display-section .description {
+        margin-bottom: 30px!important
+    }
+    .elementor-display-section .description h1 {
+        margin-bottom: 25px!important
+    }
+	
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+
+@media only screen and (max-width: 576px) {
+	.home-pages .pages .page-col {
+        margin-bottom: 30px
+    }
+}
+
+
+@media only screen and (min-width: 250px) and (max-width: 480px) {
+
+}
