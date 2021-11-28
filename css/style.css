@@ -53,9 +53,6 @@ a{
 /*------------------------------------------------------------------------------------------------------------------------------------------------*/
 /*styling starts from here*/
 /* common elements*/
-body {
-	background-color: #f8f8f9
-}
 .container {
 	max-width: 1240px!important;
 	margin: 0 auto
